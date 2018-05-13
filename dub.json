@@ -1,0 +1,9 @@
+{
+	"name": "terrain-generator-d",
+	"authors": [
+		"Aldo"
+	],
+	"description": "Basic terrain generator written in D language.",
+	"copyright": "Copyright © 2018, Aldo",
+	"license": "none"
+}

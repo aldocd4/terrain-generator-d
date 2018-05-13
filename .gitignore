@@ -1,24 +1,14 @@
-# Compiled Object files
-*.o
-*.obj
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Compiled Static libraries
-*.a
-*.lib
-
-# Executables
-*.exe
-
-# DUB
 .dub
 docs.json
 __dummy.html
 docs/
-
-# Code coverage
+terrain-generator-d.so
+terrain-generator-d.dylib
+terrain-generator-d.dll
+terrain-generator-d.a
+terrain-generator-d.lib
+terrain-generator-d-test-*
+*.exe
+*.o
+*.obj
 *.lst
