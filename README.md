@@ -1,6 +1,6 @@
 /** Work in progress **/
 
-terrain-generator-d
+terrain-generator-d v1.0.0
 ===========
 
 Basic terrain generator written in D language. 
