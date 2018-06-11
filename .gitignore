@@ -12,3 +12,5 @@ terrain-generator-d-test-*
 *.o
 *.obj
 *.lst
+source/app.d
+source/Perlin.d

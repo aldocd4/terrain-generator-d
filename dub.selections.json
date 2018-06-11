@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"versions": {
+		"derelict-fi": "3.0.0-beta.1",
+		"derelict-util": "3.0.0-beta.2",
+		"dosimplex": "0.3.2-beta",
+		"mir-algorithm": "0.9.5",
+		"mir-linux-kernel": "1.0.0",
+		"mir-random": "0.4.5"
+	}
+}

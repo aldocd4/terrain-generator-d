@@ -5,5 +5,10 @@
 	],
 	"description": "Basic terrain generator written in D language.",
 	"copyright": "Copyright © 2018, Aldo",
-	"license": "none"
+	"dependencies": {
+		"derelict-fi": "~>3.0.0-beta.1",
+		"dosimplex": "~>0.3.2-beta"
+	},
+	"license": "Boost Software License",
+	"version": "1.0.0"
 }
