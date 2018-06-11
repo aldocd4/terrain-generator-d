@@ -23,7 +23,7 @@ RGBQUAD* biome(double value)
 void main()
 {
     DerelictFI.load();
-	
+    
     int width = 512;
     int height = 512;
 
@@ -46,5 +46,5 @@ void main()
     coloredBitmap.save("colored.png");
     coloredBitmap.dispose();
 
-	DerelictFI.unload();
+    DerelictFI.unload();
 }
