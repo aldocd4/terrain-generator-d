@@ -14,5 +14,3 @@ terrain-generator-d-test-*
 *.lst
 source/app.d
 source/Perlin.d
-gray.png
-colored.png
