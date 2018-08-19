@@ -2,7 +2,7 @@ module tgd.Bitmap;
 
 import derelict.freeimage.freeimage;
 
-alias Color = RGBQUAD;
+public import tgd.Color;
 
 class Bitmap
 {

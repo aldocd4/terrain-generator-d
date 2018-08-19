@@ -1,6 +1,6 @@
 /** Work in progress **/
 
-terrain-generator-d v1.0.0
+terrain-generator-d v1.1.0
 ===========
 
 Basic terrain generator written in D language. 
@@ -13,7 +13,7 @@ Add this project as a dependency to your **dub.json**:
 
 ```json
 "dependencies": {
-    "terrain-generator-d": "~>1.0.0"
+    "terrain-generator-d": "~>1.1.0"
 }
 ```
 
@@ -39,9 +39,14 @@ You can play with your own noise generator for other effects.
 
 ![Island 2](https://github.com/aldocd4/terrain-generator-d/blob/master/examples/funny.png)
 
+### Blend transitions
+
+![Blend transitions](https://github.com/aldocd4/terrain-generator-d/blob/master/examples/smooth.png)
+
 ## TODOs
 
 * Better code
 * Better performances
 * Improve this readme
-* DOCS !
+* Include a terrain generator class (with different outputs : blend map, heightmap, etc...)
+* DOCS
