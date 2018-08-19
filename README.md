@@ -39,9 +39,9 @@ You can play with your own noise generator for other effects.
 
 ![Island 2](https://github.com/aldocd4/terrain-generator-d/blob/master/examples/funny.png)
 
-### Blend transitions
+### Transitions blending
 
-![Blend transitions](https://github.com/aldocd4/terrain-generator-d/blob/master/examples/smooth.png)
+![Transitions blending](https://github.com/aldocd4/terrain-generator-d/blob/master/examples/smooth.png)
 
 ## TODOs
 
